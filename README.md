@@ -353,8 +353,6 @@ inbound_ means traffic received; inbound to the guest.
  
  
  
-_____________________________________________________________
- 
   
 **Source:** vfd/doc/overview/overview.xfm   
 **Original:** 19 February 2018   
